@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Crafts by Huma Feed</title>
+  <link href="https://craftsbyhuma.ca/"/>
+  <updated>2025-08-02</updated>
+  <author>
+    <name>Huma</name>
+  </author>
+  <id>urn:uuid:5622cc51-b728-45c0-b14b-c0c54294626e</id>
+
+  <entry>
+    <title>Scrap storage</title>
+    <link href="https://craftsbyhuma.ca/scrap_storage.html"/>
+    <id>urn:uuid:8eff7b94-3224-4b59-b71e-3438cd31878c</id>
+    <published>2025-07-27</published>
+    <updated>2025-08-02</updated>
+    <summary>That old perplexity, small fabric scraps. As I’ve gotten more into quilting, I’ve started accumulating scraps of fabric at a faster pace and have found it difficult to keep them organized. The scraps that are really too small get tossed into my ‘stuffing basket’ and are recycled as stuffing for other projects. But I like to save as much as I can; pieces that are even a couple of inches wide can be useful for little FPP projects. I’ve tried wrapping them in bundles, folding them in bins, storing them in colour-coded bags, etc. Nothing _stays_ organized for very long. [...]</summary>
+  </entry>
+
+  <entry>
+    <title>Make: canvas backpack</title>
+    <link href="https://craftsbyhuma.ca/canvas_backpack.html"/>
+    <id>urn:uuid:1c61eb53-f0cb-43af-ac1e-f6b8efd90c81</id>
+    <published>2025-08-02</published>
+    <updated>2025-08-02</updated>
+    <summary>This week I was working on the canvas backpack from Noriko Yoshimoto's _20 sacs en toile coton canvas_ which I borrowed from my local library. It's a very adorable book of bag patterns, and I would probably make most of them if I knew where to source that much heavy cotton canvas affordably. [...]</summary>
+  </entry>
+</feed>
