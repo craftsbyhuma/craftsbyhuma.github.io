@@ -48,6 +48,8 @@ h1 {color: black; font-family: '3Dumb'; font-size: 72px; font-style: normal; fon
 h2 {color: black; font-family: '3Dumb'; font-size: 48px; font-style: normal; font-weight: normal;}
 figcaption {font-size:14px; font-style: italic; width: 350px;}
 
+figcaption.double {font-size:14px; font-style: italic; width: 600px;}
+
 @media (max-width: 1000px) {
     body {padding: 3em; font-family: 'Space Mono'; font-size: 18px; width: 80%}
 }
